@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Release x86_64\zabbix-agent.msi
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Release x86_64\zabbix-agent.wixpdb
+obj\Release x86_64\Zabbix Agent MSI Installer.wixobj
+obj\Release x86_64\Zabbix Agent MSI Installer.wixproj.BindContentsFileListnull.txt
+obj\Release x86_64\Zabbix Agent MSI Installer.wixproj.BindOutputsFileListnull.txt
+obj\Release x86_64\Zabbix Agent MSI Installer.wixproj.BindBuiltOutputsFileListnull.txt

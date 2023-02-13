@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Release x86_64\zabbix-agent.msi
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Release x86_64\zabbix-agent.wixpdb

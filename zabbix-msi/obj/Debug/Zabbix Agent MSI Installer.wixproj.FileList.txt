@@ -1,0 +1,6 @@
+obj\Debug\Zabbix Agent MSI Installer.wixobj
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Debug\zabbix-agent.msi
+C:\Users\deekshith.bc\Source\Repos\zabbix-msi\bin\Debug\zabbix-agent.wixpdb
+obj\Debug\Zabbix Agent MSI Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Zabbix Agent MSI Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Zabbix Agent MSI Installer.wixproj.BindBuiltOutputsFileListnull.txt
